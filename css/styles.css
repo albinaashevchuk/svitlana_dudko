@@ -170,7 +170,7 @@ li {
 
   column-gap: 100px;
   background: linear-gradient(to right, transparent, mistyrose),
-    url(/images/main_bottom_img_1.jpg) 40% 60%;
+    url(../images/main_bottom_img_1.jpg) 40% 60%;
   box-shadow: 10px 0 8px 8px #ffcccc;
   position: relative;
   height: 400px;
