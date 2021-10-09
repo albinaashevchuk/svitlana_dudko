@@ -531,7 +531,7 @@ li {
 }
 /* BIOPAGE*/
 .bio_parallax {
-  background-image: url(images/bio_img/bio_parallax_img.jpeg);
+  background-image: url(../images/bio_img/bio_parallax_img.jpeg);
 
   /* Set a specific height */
   height: 400px;
